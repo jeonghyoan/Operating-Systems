@@ -1,2 +1,2 @@
 # Operatioin-Systems-Design
-Assignments done during the semester
+Programming assignments done during the semester
